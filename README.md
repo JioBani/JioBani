@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header&text=JioBani🍵&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=85d69e,92e3a9,cfeccd&height=120&animation=fadeIn&section=header&text=JioBani🍵&fontAlign=70)
 
 # 🚀 Tech Stack
 
@@ -31,4 +31,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=85d69e,92e3a9,cfeccd&height=120&section=footer)
