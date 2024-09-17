@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=90)
 
 
-![Flutter]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white))
+![Flutter]([[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JioBani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
