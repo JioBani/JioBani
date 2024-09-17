@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8fd3a4&height=120&animation=fadeIn&section=header&text=JioBani🍵&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8fd3a4&height=120&animation=fadeIn&section=header&text=JioBani🍵&fontAlign=70&fontColor=ffffff)
 
 # 🚀 Tech Stack
 
