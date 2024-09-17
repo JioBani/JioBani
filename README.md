@@ -25,10 +25,4 @@
 
 ---
 
-### 📫 **Contact Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiobani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=8fd3a4&height=120&section=footer)
