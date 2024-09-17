@@ -19,7 +19,7 @@
 
 ### 📊 **GitHub Stats**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JioBani&layout=compact&theme=default&bg_color=ffffff&title_color=8fd3a4&text_color=333333)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JioBani&layout=compact&theme=dark&bg_color=0d1117&title_color=8fd3a4&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
 
 [![JioBani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JioBani&theme=github-light&color=8fd3a4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
